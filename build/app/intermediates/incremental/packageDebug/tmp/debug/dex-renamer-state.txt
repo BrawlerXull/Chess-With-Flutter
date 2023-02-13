@@ -1,4 +1,0 @@
-#Sun Dec 11 11:43:58 IST 2022
-base.0=/Users/chinmay/StudioProjects/chess_board/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
